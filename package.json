@@ -1,0 +1,12 @@
+{
+	"name":        "vbb-osm-map",
+	"description": "Render VBB lines on a map, using OpenStreetMap.",
+	"version":     "0.1.0",
+	"main":        "index.js",
+	"files":       ["index.js"],
+	"keywords":    ["vbb", "bvg", "berlin", "osm", "open street map", "map"],
+	"author":      "Jannis R <mail@jannisr.de>",
+	"homepage":    "https://github.com/derhuerst/vbb-osm-map",
+	"repository":  "derhuerst/vbb-osm-map",
+	"license":     "ISC"
+}
