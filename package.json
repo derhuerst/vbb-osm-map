@@ -8,5 +8,11 @@
 	"author":      "Jannis R <mail@jannisr.de>",
 	"homepage":    "https://github.com/derhuerst/vbb-osm-map",
 	"repository":  "derhuerst/vbb-osm-map",
-	"license":     "ISC"
+	"license":     "ISC",
+	"dependencies": {
+		"queue": "^4",
+		"vbb-osm-relations": "^0.1",
+		"osm-flatten-relation": "^0.1",
+		"ndjson": "^1.4.3"
+	}
 }
