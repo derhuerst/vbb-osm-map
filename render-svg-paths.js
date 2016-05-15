@@ -41,7 +41,7 @@ svg.pipe(wrap(`<svg
 	version="1.1" xmlns="http://www.w3.org/2000/svg"
 	width="600" height="600" viewBox="0 0 100 100">`,
 	`\n</svg>`))
-.pipe(fs.createWriteStream('all.svg'))
+.pipe(fs.createWriteStream('paths.svg'))
 
 const tasks = queue()
 tasks.concurrency = 1

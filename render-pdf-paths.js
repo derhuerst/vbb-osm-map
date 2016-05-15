@@ -37,7 +37,7 @@ const line = (color, translate) => {
 
 
 const doc = new PDF()
-doc.pipe(fs.createWriteStream('all.pdf'))
+doc.pipe(fs.createWriteStream('paths.pdf'))
 
 const tasks = queue()
 tasks.concurrency = 1

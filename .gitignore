@@ -6,5 +6,5 @@ node_modules
 npm-debug.log
 
 data/*.ndjson
-all.svg
-all.pdf
+paths.svg
+paths.pdf
