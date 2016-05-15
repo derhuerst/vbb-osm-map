@@ -7,4 +7,6 @@ npm-debug.log
 
 data/*.ndjson
 paths.svg
+points.svg
 paths.pdf
+points.pdf
